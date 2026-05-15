@@ -1,0 +1,63 @@
+.block{
+    display: block;
+    background-color: blueviolet;
+}
+
+.inline{
+    display: inline;
+    background-color: greenyellow;
+}
+
+.inline-block{
+    display: inline-block;
+    background-color: orange;
+    width: 500px;
+}
+
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    display: inline-block;
+}
+
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: inline-block;
+}
+
+.p1{
+    background-color: yellow;
+    display: inline;
+}
+
+.p2{
+    background-color: red;
+    display: inline;
+}
+
+.list{
+    display: inline;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+ul{
+    margin-left: 20px;
+}
+
+.NavH1, .list2, ul{
+    display: inline;
+}
+
+ 

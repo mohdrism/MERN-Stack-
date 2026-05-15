@@ -1,0 +1,29 @@
+h2{
+    color: red;
+}
+
+h3{
+    color: green;
+}
+
+p{
+    color: burlywood;
+}
+
+.one{
+    color:aquamarine;
+}
+
+.two
+{
+    color:cadetblue;
+}
+
+#three
+{
+    color:coral;
+}
+
+/* *{
+    color:blue;
+} */
